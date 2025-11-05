@@ -15,9 +15,9 @@ My background in aviation data and business leadership means I value accuracy, e
 
 **Languages:** Python • SQL • JavaScript  
 **Data & Analysis:** Pandas • NumPy • Matplotlib  
-**Databases:** PostgreSQL • MySQL • MongoDB  
+**Databases:** PostgreSQL • MySQL  
 **Frameworks & Tools:** Flask • Django • React • Git • Docker  
-**Cloud & DevOps:** AWS (EC2, S3) • Azure (introductory) • Jenkins  
+**Cloud & DevOps:** AWS (EC2, S3, Lambda, Step Functions, Cloudwatch) • Azure • Github Actions  • Jenkins  
 
 ---
 
